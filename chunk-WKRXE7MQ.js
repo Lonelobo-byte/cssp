@@ -1,1 +1,0 @@
-import{I as r,j as o}from"./chunk-CNGNWRF7.js";var a=class e{isDarkMode=new o(!0);isDarkMode$=this.isDarkMode.asObservable();toggleDarkMode(){this.isDarkMode.next(!this.isDarkMode.getValue())}static \u0275fac=function(t){return new(t||e)};static \u0275prov=r({token:e,factory:e.\u0275fac,providedIn:"root"})};export{a};
